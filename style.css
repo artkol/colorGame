@@ -1,0 +1,14 @@
+.container {
+	max-width:600px;
+	margin:0 auto;
+}
+
+h1, h2 {text-align:center;}
+
+.blocks {
+	width:30%;
+	margin:1.4%;
+	background:red;
+	padding-bottom:30%;
+	float:left;
+}
