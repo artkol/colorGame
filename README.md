@@ -1,1 +1,1 @@
-"# simple colorGame" 
+# simple colorGame 
